@@ -17,8 +17,8 @@ Ch# 105 - 110 : Reading and Writing to a Text File
 Ch# 111 - 117 : Reading and Writing to a .csv File
 Ch# 118 - 123 : Subprograms
 Ch# 124 - 132 : Tkinter GUI
-Ch# 133 - 138 : More Tkinter -- in progress
-Ch# 139 - 145 : SQLite -- in progress
+Ch# 133 - 138 : More Tkinter
+Ch# 139 - 145 : SQLite
 
 #-------------------------------------------------#
 
